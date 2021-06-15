@@ -1,13 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap&family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
-<style>
 
+body{
+    background-color: black;
+}
 .campfire-bg{
     background-color: black;
     width: 100%;
     height: 100vh;
 }
 .campfire-image{
-    width: 70%;
+   width: 70%;
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -15,7 +17,8 @@
     box-shadow: 3px 3px 3px 3px rgb(240, 200, 99);
 }
 .campfire-heading{
-    font-size: 90px;
+    font-size: 85px;
     color: rgb(70, 107, 227);
     font-family: 'Dancing Script', cursive;
+    font-weight: bold;
 }
