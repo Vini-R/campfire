@@ -7,7 +7,7 @@
     height: 100vh;
 }
 .campfire-image{
-   
+    width: 70%;
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -15,7 +15,7 @@
     box-shadow: 3px 3px 3px 3px rgb(240, 200, 99);
 }
 .campfire-heading{
-    font-size: 100px;
+    font-size: 90px;
     color: rgb(70, 107, 227);
     font-family: 'Dancing Script', cursive;
 }
