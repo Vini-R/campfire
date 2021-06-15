@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.campfire-bg{
+    background-color: black;
+    width: 100%;
+}
+.campfire-image{
+    width:60%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.campfire-image:hover{
+    box-shadow: 3px 3px 3px 3px rgb(240, 200, 99);
+}
+.campfire-heading{
+    font-size: 100px;
+    color: rgb(240, 200, 99);
+}
